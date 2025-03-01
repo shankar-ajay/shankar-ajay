@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=shankar-ajay14&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-🔹 **Portfolio:** [Ajay Shankar's Portfolio](https://shankar-portfolio.netlify.app/)
+🔹 **Portfolio:** [Ajay Shankar's Portfolio](https://shankar-ajay.github.io/)
 
 🔹 **Email:** [ajayconnect99@gmail.com](mailto:ajayconnect99@gmail.com)
 
