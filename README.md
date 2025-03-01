@@ -18,9 +18,7 @@
 ### 🚀 About Me:
 - 💼 Currently working at **HCL Technologies** as a **Java Application Developer & Smartsheet Developer**.
 - 🔍 Exploring opportunities in **Backend Development, Full Stack Engineering, and AI/ML**.
-- 🎯 Seeking to transition into a **product-based company** with a goal of **20 LPA+**.
-- 🌱 Currently learning **MERN Stack** and enhancing my expertise in **Java, Spring Boot, RESTful APIs, and Microservices**.
-- 🏗️ Working on my **Portfolio Website** using **MERN & Tailwind CSS**.
+- 🌱 Currently learning **MERN Stack** .
 - 📌 Passionate about **containerization, microservices architecture, and scalable backend solutions**.
 
 ---
@@ -50,20 +48,20 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankar-ajay14&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shankar-ajay&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-ajay14&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-ajay&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankar-ajay14&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankar-ajay&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajay-shankar-14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajayshankar99/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ajayconnect99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shankar-ajay14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shankar-ajay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
