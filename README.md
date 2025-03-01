@@ -11,7 +11,7 @@
 
 🔹 **LinkedIn:** [Ajay Shankar](https://www.linkedin.com/in/ajayshankar99/)
 
-🔹 **GitHub:** [shankar-ajay14](https://github.com/shankar-ajay)
+🔹 **GitHub:** [shankar-ajay](https://github.com/shankar-ajay)
 
 ---
 
