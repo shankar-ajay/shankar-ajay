@@ -7,8 +7,6 @@
 
 🔹 **Portfolio:** [Ajay Shankar's Portfolio](https://shankar-ajay.github.io/)
 
-🔹 **Email:** [ajayconnect99@gmail.com](mailto:ajayconnect99@gmail.com)
-
 🔹 **LinkedIn:** [Ajay Shankar](https://www.linkedin.com/in/ajayshankar99/)
 
 🔹 **GitHub:** [shankar-ajay](https://github.com/shankar-ajay)
